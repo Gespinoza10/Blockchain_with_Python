@@ -11,10 +11,10 @@
 ## After executing code, we get transaction hash
 <img width="692" alt="Screen Shot 2021-10-01 at 9 22 50 AM" src="https://user-images.githubusercontent.com/81205562/135656532-899de71c-f5d0-4179-82d2-542c3cd804cd.png">
 
-## New amount of Account 1 , We received 0.05 EHER from Account 2
+## New Amount of Account 1 , We received 0.05 EHER from Account 2
 <img width="395" alt="Screen Shot 2021-10-01 at 9 23 03 AM" src="https://user-images.githubusercontent.com/81205562/135656679-b8bc5aad-b00b-4dc4-95e4-0e63f40d8649.png">
 
-## New Amoiunt of Account 2, We send 0.05 ETHER to Account 1
+## New Amount of Account 2, We send 0.05 ETHER to Account 1
 <img width="353" alt="Screen Shot 2021-10-01 at 9 23 20 AM" src="https://user-images.githubusercontent.com/81205562/135656835-715f0a70-27c0-4c51-9c80-9997d8020127.png">
 
 
